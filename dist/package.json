@@ -1,0 +1,10 @@
+{
+  "name": "kitchen-dashboard",
+  "version": "1.0.0",
+  "description": "Blue kitchen's web kiosk interface",
+  "author": "Edmond Petres",
+  "private": false,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+ }
