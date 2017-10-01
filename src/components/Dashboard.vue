@@ -2,10 +2,10 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6 no-gutters">
-        <iframe class="stboard" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.rejseplanen.dk/bin/help.exe/mn?L=vs_tus.vs_new&tpl=monitor&station=10120&view=dep&stopFrequency=high&p1=bus&p1rows=15&preview=200&p1icon=yes&p1freeTitle=Klampenborgvej%20St."></iframe>
+        <iframe class="stboard" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.rejseplanen.dk/bin/help.exe/mn?L=vs_tus.vs_new&tpl=monitor&station=10120&view=dep&stopFrequency=high&p1=bus&p1rows=15&preview=200&p1icon=yes&p1freeTitle=Klampenborgvej%20St."></iframe>
       </div>
       <div class="col-md-6 no-gutters">
-        <iframe class="stboard" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.rejseplanen.dk/bin/help.exe/mn?L=vs_tus.vs_new&tpl=monitor&station=8600675&view=dep&stopFrequency=high&p1=stog&p1rows=15&preview=200&p1icon=yes&p1freeTitle=Lyngby%20St."></iframe>
+        <iframe class="stboard" height="1080" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.rejseplanen.dk/bin/help.exe/mn?L=vs_tus.vs_new&tpl=monitor&station=8600675&view=dep&stopFrequency=high&p1=stog&p1rows=15&preview=200&p1icon=yes&p1freeTitle=Lyngby%20St."></iframe>
       </div>
     </div>
   </div>
