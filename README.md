@@ -1,6 +1,6 @@
 # kitchen-dashboard
 
-> A Vue.js project
+The Blue Kitchen in my dormitory is equipped with a TV Dashboard. This web page is being displayed via a Raspberry Pi.
 
 ## Build Setup
 
