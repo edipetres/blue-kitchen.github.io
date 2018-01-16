@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="marquee">
-      <p>WELCOME! This is a live dashboard in a kitchen near you. Our developer team is working hard on some new features that will be available soon. Until then, hang on with us!</p>
+      <p>{{ newsLine }} </p>
     </div>
   </div>
 </template>
@@ -19,7 +19,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      newsLine: 'ANNOUNCEMENT: Beerpong Championship this Friday, 19 Jan at 17.00 in the piano room. The fee is 50 DKK per team and buys you all the beers! The champion wins a bottle of whiskey. Sign up in teams at Eddie, Lenk or Amoury. Everyone is welcome!'
     }
   }
 }
@@ -78,7 +78,8 @@ export default {
     display: inline-block;
     padding-left: 100%;
     animation: marquee 20s linear infinite;
-    margin: 5px;
+    margin: 10px;
+    font-weight: 700;
 }
 @keyframes marquee {
     0%   { transform: translate(0, 0); }
